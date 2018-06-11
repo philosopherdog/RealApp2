@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FirstViewController.h
 //  RealApp2
 //
 //  Created by steve on 2018-06-11.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FirstViewController : UIViewController
 
 @end
-
